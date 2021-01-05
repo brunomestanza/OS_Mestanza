@@ -8,13 +8,13 @@ O projeto consiste em um sistema para criação e controle de ordem de serviço,
 O projeto foi codificado totalmente em Java, porém possui também em sua constituição o uso do banco de dados MySQL.
 
 ## Tela de Login
-![Login](https://github.com/brunomestanza/OS_Mestanza/blob/master/assets/login.PNG) 
+![Login](https://github.com/brunomestanza/OS_Mestanza/blob/main/assets/login.PNG) 
 
 ## Emissão de Ordem de Serviço
-![Emitir_OS](https://github.com/brunomestanza/OS_Mestanza/blob/master/assets/os.PNG)
+![Emitir_OS](https://github.com/brunomestanza/OS_Mestanza/blob/main/assets/os.PNG)
 
 ## Alteração dos Dados de um cliente
-![Alterar_Cliente](https://github.com/brunomestanza/OS_Mestanza/blob/master/assets/cliente.PNG)
+![Alterar_Cliente](https://github.com/brunomestanza/OS_Mestanza/blob/main/assets/cliente.PNG)
 
 Durante a criação do modelo entidade relacionamento, algumas instruções foram criadas para o bom funcionamento do sistema. Exemplos:
 - Não pode ser emitida nenhuma ordem de serviço sem cliente vinculado;
@@ -23,13 +23,13 @@ Durante a criação do modelo entidade relacionamento, algumas instruções fora
 
 
 ## Modelo entidade relacionamento
-![MER](https://github.com/brunomestanza/OS_Mestanza/blob/master/assets/MER.PNG)
+![MER](https://github.com/brunomestanza/OS_Mestanza/blob/main/assets/MER.PNG)
 
 # Tecnologias utilizadas
 - Java
 - MySQL
 
 ## Autor
-![Sobre](https://github.com/brunomestanza/OS_Mestanza/blob/master/assets/sobre.PNG) 
+![Sobre](https://github.com/brunomestanza/OS_Mestanza/blob/main/assets/sobre.PNG) 
 
 https://www.linkedin.com/in/brunomestanza
